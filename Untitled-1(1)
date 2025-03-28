@@ -7,11 +7,11 @@
 </head>
 <body>
     <h1>Luis Gustavo</h1>
-    <img src="img/imagem.1.jpg">
+    <img src="img/pato.jpg" alt="Pato" width="500" height="600">
     Eu sou o Luis Gustavo tenho 18 anos sou estudante de Analise e Desenvolvimento de sistemas na universidade UTFPR de Cornélio Procópio,
     trabalho como Auxiliar de escritório de contabilidade durante o dia e estudo de noite,
      e faço tiro de guerra antes do serviço,
-     <p style="color:red">Hobbies.</p> 
+     <p style="color:rgb(67, 7, 122)">Hobbies.</p> 
      meus hobbies são desenhar e jogar videogames como valorant, minecraft, jogos de fps e terror, minha comida favorita é lasanha, sou um introvertido e tenho dificuldade de fazer amizades eu cursei Contabilidade durante um período,
        gosto de sair no fim de semana com meu amigos, gosto de jogar bola e nadar,
         gostaria de viajar para vários lugares do mundo, quero futuramente conquistar um carro dos sonhos e ter uma família feliz, 
